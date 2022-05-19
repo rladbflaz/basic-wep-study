@@ -1,4 +1,4 @@
-git add [file_path&name]
+git add "file_path"
 git commit -m "message"
 git status
 git push origin master
